@@ -7,6 +7,6 @@ A simple Todo App built with ReactJS and TailwindCSS. A live preview of app is a
 
 - Can add Todos and delete them  
 - Responsive Design
-- Built with a Mobile first design
+- Mobile friendly
 
 
